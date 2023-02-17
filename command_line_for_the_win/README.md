@@ -1,1 +1,1 @@
-command line for tye win readme
+command line for the win readme
